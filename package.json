@@ -1,0 +1,22 @@
+{
+  "name": "weather-stats",
+  "version": "1.0.0",
+  "description": "Display weather of city.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshjaiswal556/npm-weather-stats.git"
+  },
+  "author": "Harsh Shah Jaiswal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshjaiswal556/npm-weather-stats/issues"
+  },
+  "homepage": "https://github.com/harshjaiswal556/npm-weather-stats#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
